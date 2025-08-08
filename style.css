@@ -1,0 +1,11 @@
+body {
+color: white;
+background-color: black;
+font-family: "roboto Condesed" , sans-serif;
+}
+.chamada{
+background: rgb(62,197,89);
+pedding-bottom: 80px;
+display: flex;
+justify-content: center;
+}
